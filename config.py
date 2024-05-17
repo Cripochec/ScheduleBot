@@ -1,0 +1,12 @@
+TOKEN = '5604862806:AAEJGltKqaLES_wmGLnAQDxYdbzWoVW24Fg'
+SCHEDULE = 'http://forum.rsvpu.ru//contents/api/rasp.php'
+GROUPS = 'http://forum.rsvpu.ru/contents/api/groups.php'
+AUDIENCES = 'http://forum.rsvpu.ru/contents/api/auds.php'
+LECTURERS = 'http://forum.rsvpu.ru/contents/api/preps.php'
+MY_GROUPS = 'ПИм-201'
+SUBGROUP = '2'
+
+HOST = '127.0.0.1'
+USER = 'postgres'
+PASSWORD = '3966'
+DB_NAME = 'ScheduleDB'
